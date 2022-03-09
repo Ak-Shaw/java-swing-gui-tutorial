@@ -1,4 +1,4 @@
-package gridlayout;
+package gridLayout;
 
 import java.awt.GridLayout;
 

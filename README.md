@@ -10,3 +10,4 @@ Order:
 1. FlowLayout
 1. GridLayout
 1. JLayeredPane
+1. Open New Window

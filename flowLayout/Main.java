@@ -1,4 +1,4 @@
-package flowlayout;
+package flowLayout;
 
 import java.awt.FlowLayout;
 import java.awt.Dimension;

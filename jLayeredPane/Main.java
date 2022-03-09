@@ -1,4 +1,4 @@
-package jlayeredpane;
+package jLayeredPane;
 
 import java.awt.Color;
 import java.awt.Dimension;

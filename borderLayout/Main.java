@@ -1,4 +1,4 @@
-package borderlayout;
+package borderLayout;
 
 import java.awt.Color;
 import java.awt.BorderLayout;
