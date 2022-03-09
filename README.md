@@ -6,3 +6,4 @@ Order:
 1. Labels
 1. Panels
 1. Buttons
+1. BorderLayout
