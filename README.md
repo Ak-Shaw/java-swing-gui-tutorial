@@ -13,3 +13,4 @@ Order:
 1. Open New Window
 1. JOptionPane
 1. JTextField
+1. JCheckBox
