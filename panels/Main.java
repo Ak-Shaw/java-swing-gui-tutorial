@@ -1,7 +1,7 @@
 package panels;
 
 import java.awt.Color;
-import java.awt.BorderLayout;
+// import java.awt.BorderLayout;
 
 import javax.swing.ImageIcon;
 import javax.swing.JFrame;
