@@ -7,3 +7,4 @@ Order:
 1. Panels
 1. Buttons
 1. BorderLayout
+1. FlowLayout
